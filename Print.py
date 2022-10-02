@@ -4,4 +4,5 @@ for i in range(1,10):
 print("\n")
 for letter in "Amila":
   print(letter,end=" ")
-
+y=int(input("input integer Value"))
+print(y)
